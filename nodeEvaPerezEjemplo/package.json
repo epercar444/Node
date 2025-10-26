@@ -8,10 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "funny-words": "^0.1.2",
-    "uuid": "^13.0.0"
-  },
-  "devDependencies": {}
+  "license": "ISC"
 }
